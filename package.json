@@ -1,0 +1,28 @@
+{
+  "name": "target_sistemas",
+  "version": "0.1.0",
+  "description": "Teste técnico Target Sistemas | https://targetsistemas.com.br",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeandroMedvedev/targetsistemas.git"
+  },
+  "keywords": [
+    "teste",
+    "técnico",
+    "Target",
+    "Sistemas"
+  ],
+  "author": "Leandro Medvedev <medvedevleandro@outlook.com>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/LeandroMedvedev/targetsistemas/issues"
+  },
+  "homepage": "https://github.com/LeandroMedvedev/targetsistemas#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
